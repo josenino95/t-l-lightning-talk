@@ -1,0 +1,78 @@
+---
+title: "Extending our Reach: Sustainable Data Training for the Broader Community"
+author: "Jose Niño Muriel"
+institute: Library DREAM Lab - Carpentry @ UCSB
+date: 2026-03-17
+format: 
+  revealjs:
+    smaller: true
+    footer: "Extending our Reach | Jose Niño Muriel"
+---
+
+## ![The Carpentries](https://carpentries.org/carpentries-logo.svg){width=30% fig-alt="The Carpentries logo"}
+
+- Teaching foundational coding and data science skills to researchers worldwide, since 1998
+- Also a train-the-trainer community
+
+![Map of Carpentries workshops held worldwide. Source: https://feeds.carpentries.org/](https://feeds.carpentries.org/plot_workshops_map.svg){.lightbox width="65%" fig-alt="A world map titled: Workshops by Location, showing the global distribution of Carpentries workshops. Hundreds of orange circles of varying sizes are plotted across all continents (except Antarctica), with each circle representing the number of workshops held at a specific location. Larger circles indicate a higher density of workshops, with significant clusters visible in North America, Western Europe, and parts of Australia."}
+
+## Carpentry @ UCSB
+:::: {.columns}
+
+::: {.column width="40%"}
+- First workshop held in 2014
+- Hosted in the Library since 2019, a cross-campus collaboration
+- Over 100 workshops held to date
+:::
+
+::: {.column width="60%"}
+![2016 Workshop at the Library](https://raw.githubusercontent.com/remi-daigle/2016-04-15-UCSB/refs/heads/gh-pages/IMG_20160416_145342.jpg){fig-alt="A group of people smiling for a photo during a Software Carpentry workshop."}
+:::
+::::
+
+## Extending our reach - UC Carpentries
+
+::::{.columns}
+
+:::{.column width="70%"}
+
+- Started in 2020 as a UCLA-UCSD-UCB collaboration
+- UCSB Library first participated in 2021
+- For its 6th edition in 2025 we had 243 attendees
+  - 34 from UCSB (14%)
+  - 147 from other UCs (60%)
+  - 38 from CSU system (16%)
+  - 24 from anywhere else (10%) <small>(Turkiye, Pakistan, Colombia, UK, Canada, Spain, Washington DOH, Massachusetts, Illinois, LBNL, Scripps Research)</small>
+  
+:::{.incremental}
+- How did we reach out to them?
+  - We didn't
+- How did they find out?
+  - No idea!
+  - But probably through the Carpentries website
+:::
+
+:::
+
+:::{.column width="30%"}
+![Source: Google Gemini - Nano Banana](images/Gemini_Generated_Image_qrkdx5qrkdx5qrkd.png){fig-alt="A vertical graphic featuring a blue silhouette of the state of California positioned in the center. Four orange arrows originate from the state and point outward in different directions, symbolizing outreach or the sharing of ideas. The background consists of a very faint, light gray map of the world on a cream-colored textured surface."}
+:::
+  
+::::
+
+## Extending our reach - UCSB hybrid/remote workshops
+
+- R Geospatial workshops in 2025 and 2026:
+  - 12 attendees from universities across the US, but also from government and museums, and instructors wanting to teach this curriculum
+- Three additional online/hybrid workshops in 2025, reaching 3 non-UCSB attendees
+- For instructors, teaching an online workshop is not as fun
+
+## Strategies for
+
+Continued working group at UC level, I’ve seen it in other groups GIS Week, UC Love Data Week.
+Partner up!
+Continue building on top of what’s already built. Sometimes sad to see new projects born that disperses information and efforts. It can be because of funding cycles, it’s always better to show something new that maintaining an existing thing
+
+
+## Discussion
+  
