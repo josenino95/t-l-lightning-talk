@@ -1,5 +1,7 @@
 project:
-  title: "t&l-lightning-talk"
+  title: "Extending our Reach: Sustainable Data Training for the Broader Community"
+  type: website
+  output-dir: docs
 
 editor: visual
 
