@@ -8,8 +8,8 @@ date: 2026-03-17
 format: 
   revealjs:
     smaller: true
-    footer: "Extending our Reach | Jose Niño Muriel"
     theme: default
+    pdf-separate-fragments: true
 ---
 
 ## ![The Carpentries](https://carpentries.org/carpentries-logo.svg){width="30%" fig-alt="The Carpentries logo"}
@@ -19,7 +19,7 @@ format:
 
 ![Map of Carpentries workshops held worldwide. Source: https://feeds.carpentries.org/](https://feeds.carpentries.org/plot_workshops_map.svg){.lightbox width="65%" fig-alt="A world map titled: Workshops by Location, showing the global distribution of Carpentries workshops. Hundreds of orange circles of varying sizes are plotted across all continents (except Antarctica), with each circle representing the number of workshops held at a specific location. Larger circles indicate a higher density of workshops, with significant clusters visible in North America, Western Europe, and parts of Australia."}
 
-## Carpentry \@ UCSB
+## Carpentry \@ UCSB\
 
 ::::: columns
 ::: {.column width="40%"}
